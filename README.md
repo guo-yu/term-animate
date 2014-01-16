@@ -3,9 +3,9 @@
 animation toolkit in your terminal
 
 ### Installation
-
-[![NPM](https://nodei.co/npm/term-animate.png)](https://nodei.co/npm/term-animate/) [![NPM](https://nodei.co/npm-dl/term-animate.png?months=6)](https://nodei.co/npm/term-animate/)
-
+````
+$ npm install term-animate
+````
 
 ### Example
 ````javascript
